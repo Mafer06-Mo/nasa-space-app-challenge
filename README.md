@@ -28,18 +28,25 @@ Gemini AI helped turn the team’s initial room and mechanic sketches into detai
 
 ## Repository contents
 
-- `game/ShippiesMission.rbxl` — the Roblox place file. Open it in Roblox Studio.
+- `game/MarsMissionTycoon.rbxlx` — the editable Roblox place file. Open it in Roblox Studio.
 - `src/ServerScriptService/` — server scripts extracted from the place.
 - `src/StarterPlayerScripts/` — client scripts extracted from the place.
 
-The `.rbxl` file is the complete place snapshot. The `.lua` files are provided separately for script review and editing; apply any script changes in Roblox Studio and save the place file to keep both representations synchronized.
+The `.rbxlx` file is the complete place snapshot. The `.lua` files are provided separately for script review and editing; apply script changes in Roblox Studio and save the place file to keep both representations synchronized.
 
 ## Play the published game
 
 [Play Shippies’ Mission on Roblox](https://www.roblox.com/games/109536135244901)
 
-## Open the game in Roblox Studio
+## Launch through Roblox Creator Hub
 
-1. Open `game/ShippiesMission.rbxl` in Roblox Studio.
+1. Open [Roblox Creator Hub](https://create.roblox.com/) and sign in with the project account. Ask the project owner to share the login details privately; do not put passwords in this public repository.
+2. Open **Creations** and find **Shippies’ Mission**.
+3. Select **Launch** to open the experience in your browser.
+4. If you spawn in the wrong location or a spawn conflict prevents the lobby from appearing, use **Respawn** (or **Reset Character**) and repeat until your character appears in the lobby.
+
+## Open the project in Roblox Studio
+
+1. Open `game/MarsMissionTycoon.rbxlx` in Roblox Studio.
 2. Press **Play** to try the experience. Use Studio’s multi-client test options to explore multiple crew roles.
 3. Confirm the crew roles at the central hologram and follow the room workflow to prepare the mission.
