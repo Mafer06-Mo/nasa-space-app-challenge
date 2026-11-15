@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# nasa-space-app-challenge
+# Nasa-space-app-challenge
 Shippies' Mission — Roblox mission design prototype for the NASA Space Apps Challenge.
 =======
 # Mars Mission Design Tycoon
@@ -43,4 +42,3 @@ The `.rbxlx` place file is the complete project snapshot. The `.lua` files are p
 1. Open `game/MarsMissionTycoon.rbxlx` in Roblox Studio.
 2. Use **Play** to try the experience. Use Studio's multi-client test options to explore separate crew roles with multiple players.
 3. Confirm the crew roles at the central hologram and follow the room guidance to complete the mission workflow.
->>>>>>> 77bdc4a (Initial project repository)
